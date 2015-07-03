@@ -1,0 +1,26 @@
+{
+  "name": "js-check-contrib-backbone",
+  "version": "1.0.0",
+  "description": "Backbone JS-Check rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a7medkamel/js-check-contrib-backbone.git"
+  },
+  "keywords": [
+    "js-check"
+  ],
+  "author": "a7medkamel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a7medkamel/js-check-contrib-backbone/issues"
+  },
+  "homepage": "https://github.com/a7medkamel/js-check-contrib-backbone#readme",
+  "dependencies": {
+    "chai": "^3.0.0",
+    "underscore": "^1.8.3"
+  }
+}

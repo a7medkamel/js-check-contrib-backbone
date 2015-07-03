@@ -38,6 +38,7 @@ function check(node) {
 }
 
 module.exports = {
+  type      : 'js',
   area      : 'Backbone',
   name      : 'View/initialize',
   fix       : 'add initialize method to backbone view',

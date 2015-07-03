@@ -53,6 +53,7 @@ function check(render) {
 }
 
 module.exports = {
+  type      : 'js',
   area      : 'Backbone',
   name      : 'View/render/return.this',
   fix       : 'add return this at end of render method',

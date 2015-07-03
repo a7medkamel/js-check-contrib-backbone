@@ -72,6 +72,7 @@ function check(init) {
 }
 
 module.exports = {
+  type      : 'js',
   area      : 'Backbone',
   name      : 'View/initialize/this.options',
   desc      : 'Ensure that a backbone view\'s initialize function takes one argument called "options" and that we set `this.options = options || {}`',

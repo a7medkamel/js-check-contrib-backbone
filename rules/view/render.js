@@ -38,6 +38,7 @@ function check(node) {
 }
 
 module.exports = {
+  type      : 'js',
   area      : 'Backbone',
   name      : 'View/render',
   fix       : 'add render method to backbone view',
